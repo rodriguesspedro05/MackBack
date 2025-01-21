@@ -1,4 +1,4 @@
-# Feito por Pedro Henrique de Almeida Rodrigues - 10434585
+# Feito por Pedro Henrique de Almeida Rodrigues
 
 # Armazenar informações da conta
 conta = {
